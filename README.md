@@ -21,5 +21,5 @@ A line chart showcasing crime trends over financial years. Reveals whether crime
 A clustered column chart comparing crime counts across different police forces and offense descriptions.
 ### Distribution Analysis: 
 A stacked bar chart illustrating the distribution of crime counts across offense groups, offenses, and subgroups.
-###Custom Insight:
+### Custom Insight:
 A scatter plot analyzing the correlation between crime counts and financial years for specific police forces or offense descriptions.
